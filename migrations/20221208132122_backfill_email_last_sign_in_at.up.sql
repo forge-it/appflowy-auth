@@ -9,5 +9,5 @@ update {{ index .Options "Namespace" }}.identities
     created_at = '2022-11-25' and
     updated_at = '2022-11-25' and
     provider = 'email' and
-    id = user_id::text;
+    id = CAST(user_id AS text);
 end $$;
