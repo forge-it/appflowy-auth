@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/forge-it/appflowy-auth/compare/v1.0.1...v1.1.0) (2025-08-31)
+
+
+### Features
+
+* add latest tag to Docker image releases ([e1e713f](https://github.com/forge-it/appflowy-auth/commit/e1e713f007d94771ca7a8807aa558ce3ddb70d14))
+
+
+### Bug Fixes
+
+* SQL migration UUID comparison error ([fdc41a1](https://github.com/forge-it/appflowy-auth/commit/fdc41a18ee1ede651df7cef64cf36f932868c6b1))
+
 ## [1.0.1](https://github.com/forge-it/appflowy-auth/compare/v1.0.0...v1.0.1) (2025-08-31)
 
 
