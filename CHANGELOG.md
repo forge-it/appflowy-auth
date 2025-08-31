@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/forge-it/appflowy-auth/compare/v1.0.0...v1.0.1) (2025-08-31)
+
+
+### Bug Fixes
+
+* release workflow to ghcr ([0d5af32](https://github.com/forge-it/appflowy-auth/commit/0d5af32495a03753905864258811c510a75c74e4))
+
 ## 1.0.0 (2025-08-31)
 
 
